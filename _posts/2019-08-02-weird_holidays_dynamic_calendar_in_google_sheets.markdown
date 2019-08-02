@@ -10,7 +10,7 @@ I gave myself a small project to learn something new and help out the PR Manager
 
 It was a fun challenge to figure out Google Sheet queries for the first time. Check out my work below, and please feel free to use my functions. I'll be using them again come 2020 when it's time to populate a fresh calendar!
 
-[Weird Holidays Google Sheet](https://docs.google.com/spreadsheets/d/1Ws74h09ILndbtfjfFUenvsjrrfZTINIl06oCEKV4n8o/edit?usp=sharing)
+<a href="https://docs.google.com/spreadsheets/d/1Ws74h09ILndbtfjfFUenvsjrrfZTINIl06oCEKV4n8o/edit?usp=sharing" target="blank">Weird Holidays Google Sheet</a>
 
 <p><a href="https://vimeo.com/351569593">Dynamic Weird Holidays Calendar Demo</a> from <a href="https://vimeo.com/user5223832">Annalisa Rose</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <iframe src="https://player.vimeo.com/video/351569593" width="640" height="480" frameborder="0" allowfullscreen></iframe>
