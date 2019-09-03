@@ -13,7 +13,7 @@ As the web expanded over the years, I continued to dabble in code to customize m
 
 I consider coding to be an artform, and computers to be the most versatile, powerful, and revolutionary medium of all time. Something as small as tweaking the code on a friend's resume website gives me the same creative gratification as my analog hobbies: drawing, playing piano, sewing. (Seems I express myself best in a seated posture, conducting my hands in patterns.) I feel extremely lucky and grateful to have code as an outlet to bring my creative sensibilities into the professional sphere, and more importantly, into the future.
 
->> peep this KiSS doll I published to OtakuWorld over fifteen years ago! I'm dying over my username. Can't believe the site is still up!
+>peep this KiSS doll I published to OtakuWorld over fifteen years ago! I'm dying over my username. Can't believe the site is still up!
 
 [![a KiSS doll I published to OtakuWorld over fifteen years ago!](https://i.imgur.com/m9zSCrG.png)](https://otakuworld.com/index.html?/kiss/dolls/?/kiss/dolls/pages/c/candi.htm)
 
