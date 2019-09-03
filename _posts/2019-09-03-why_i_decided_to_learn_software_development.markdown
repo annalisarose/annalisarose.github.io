@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I Decided To Learn Software Development"
-date:       2019-09-03 20:28:29 +0000
+date:       2019-09-03 16:28:30 -0400
 permalink:  why_i_decided_to_learn_software_development
 ---
 
@@ -13,6 +13,7 @@ As the web expanded over the years, I continued to dabble in code to customize m
 
 I consider coding to be an artform, and computers to be the most versatile, powerful, and revolutionary medium of all time. Something as small as tweaking the code on a friend's resume website gives me the same creative gratification as my analog hobbies: drawing, playing piano, sewing. (Seems I express myself best in a seated posture, conducting my hands in patterns.) I feel extremely lucky and grateful to have code as an outlet to bring my creative sensibilities into the professional sphere, and more importantly, into the future.
 
-![a KiSS doll I published to OtakuWorld over fifteen years ago!](https://i.imgur.com/kFlbIji.png)
+[![a KiSS doll I published to OtakuWorld over fifteen years ago!](https://i.imgur.com/1W64pkp.png)](https://otakuworld.com/index.html?/kiss/dolls/?/kiss/dolls/pages/c/candi.htm)
+
 
 
