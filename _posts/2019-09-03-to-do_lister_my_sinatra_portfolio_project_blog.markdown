@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "To-Do Lister: My Sinatra Portfolio Project Blog"
-date:       2019-09-04 03:36:22 +0000
+date:       2019-09-03 23:36:23 -0400
 permalink:  to-do_lister_my_sinatra_portfolio_project_blog
 ---
 
@@ -80,8 +80,7 @@ I think the single list view is also why I initially ran into trouble with my fl
 
 I learned a lot doing this project. It was fun trying to approximate methods from higher-level frameworks, but I'm excited to move on to the Rails and advanced JavaScript sections so I can learn to do them the standard way.
 
-Project repo:
-
+Project repo:<br>
 [To-Do Lister](https://github.com/annalisarose/to-do-list-sinatra-project)
 
 Video walkthrough:
