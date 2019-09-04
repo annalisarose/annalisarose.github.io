@@ -74,11 +74,11 @@ For instance, the read, update, and destroy actions for individual lists all liv
   end
 ```
 
-And lists' tasks are represented by the model Checkitems, which don't have views or a controller. I wanted each Checkitem to have its own ID, and a `belongs_to` relationship with a list. It seemed unnecessarily complicated to have to navigate to a list, and then to an edit page for a single item on that list, in order to update or delete the item. Because Checkitems are their own model, rather than, say, a column in the Lists table, I was able to use use each Checkitem's unique id to create a checkbox for each task in the list view, able to be marked for removal after clicking the update button. (I'm eager to learn how to do that live on the page with JavaScript in the future!)
+A list's tasks are represented by the model Checkitems, which doesn't have its own routes or controller. I wanted each Checkitem to have an ID and a `belongs_to` relationship with a list. I used each Checkitem's unique ID to create a corresponding checkbox in the list view, to mark ostensibly "completed" tasks for removal. (I'm looking forward to doing that live on the page with JavaScript in the near future!)
 
-I think the single list view is also why I initially ran into trouble with my flash hash. It would clear after a redirect within an if statement (examples above), an issue I hadn't encountered before. I had been using the rack-flash gem, which a lot of Googling has led me to believe works better with Rails apps. I switched to sinatra-flash, which has built-in methods like .keep, to persist the flash's contents for an extra redirect. Problem solved!
+I think the single list view might also be why I initially ran into trouble with my flash hash. It would clear after a redirect within an if statement (examples above), an issue I hadn't encountered before. I had been using the rack-flash gem, which a lot of Googling has led me to believe works better with Rails apps. I switched to sinatra-flash, which has built-in methods like .keep, to persist the flash's contents for an extra redirect. Problem solved!
 
-I learned a lot doing this project. It was fun trying to approximate methods built into higher-level frameworks, and I'm excited to move on to the Rails and advanced JavaScript sections so I can learn to do them that way, too.
+I learned a lot throughout this project. It was fun trying to approximate methods built into higher-level frameworks, and I'm excited to move on to the Rails and JavaScript sections so I can learn to do them that way, too.
 
 Project repo:<br>
 [To-Do Lister](https://github.com/annalisarose/to-do-list-sinatra-project)
