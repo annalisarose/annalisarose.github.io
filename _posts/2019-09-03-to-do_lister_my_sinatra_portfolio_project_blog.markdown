@@ -78,7 +78,7 @@ List tasks, represented by the model Checkitems, don't have views or a controlle
 
 I think the single list view is also why I initially ran into trouble with my flash hash clearing after a redirecting within an if statement (examples above). I had been using rack-flash, which a lot of Googling has led me to believe works better with Rails apps. I switched to sinatra-flash, which has built-in methods like .keep, to persist the flash's contents for an extra redirect. Problem solved!
 
-I learned a lot doing this project. It was fun trying to approximate methods from higher-level frameworks, but I'm excited to move on to the Rails and advanced JavaScript sections so I can learn to do them the standard way.
+I learned a lot doing this project. It was fun trying to approximate methods built into higher-level frameworks, and I'm excited to move on to the Rails and advanced JavaScript sections so I can learn to do them that way, too.
 
 Project repo:<br>
 [To-Do Lister](https://github.com/annalisarose/to-do-list-sinatra-project)
