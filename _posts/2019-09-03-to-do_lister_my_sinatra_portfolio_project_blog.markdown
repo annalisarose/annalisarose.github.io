@@ -8,7 +8,7 @@ permalink:  to-do_lister_my_sinatra_portfolio_project_blog
 
 Oh my God, this project was so much more time-consuming than I thought it would be, but so rewarding!
 
-The prompt: create a CRUD MVC app using Sinatra. I struggled to come up with an unusual or interesting concept, so I went with a popular choice, a to-do list manager. Again, not terrible unique, but undeniably useful, with a lot of room for variation in design. With the latter point in mind, my project might differ slightly from a traditional CRUD app, but in ways that, in my opinion, make more sense for a digital to-do list.
+The prompt: create a CRUD MVC app using Sinatra. I went with the first idea that came to mind, a to-do list manager. It seems to be a popular choice for this kind of project, but there's always room for variation in the execution! With the latter point in mind, my project might differ slightly from a traditional CRUD app, but in ways that, according to my preferences, make more sense for a digital to-do list.
 
 For instance, the read, update, and destroy actions for individual lists all live in the same view:
 
@@ -74,9 +74,9 @@ For instance, the read, update, and destroy actions for individual lists all liv
   end
 ```
 
-List tasks, represented by the model Checkitems, don't have views or a controller. I wanted each list item to have its own ID, and a belongs_to relationship with a list, but it seemed unnecessarily complicated to have to navigate to a list, and then to an edit page for a single item on that list, in order to update or delete the item. I eventually figured out how to use each list task's unique id to remove checked items after clicking the update button, which you can see above. (I'm excited to learn how to do that live on the page with JavaScript in upcoming lessons!)
+Lists' tasks are represented by the model Checkitems, which don't have views or a controller. I wanted each Checkitem to have its own ID, and a belongs_to relationship with a list, but it seemed unnecessarily complicated to have to navigate to a list, and then to an edit page for a single item on that list, in order to update or delete the item. I eventually figured out how to use each list task's unique id to remove checked items after clicking the update button, which you can see above. (I'm excited to learn how to do that live on the page with JavaScript in the future!)
 
-I think the single list view is also why I initially ran into trouble with my flash hash clearing after a redirecting within an if statement (examples above). I had been using rack-flash, which a lot of Googling has led me to believe works better with Rails apps. I switched to sinatra-flash, which has built-in methods like .keep, to persist the flash's contents for an extra redirect. Problem solved!
+I think the single list view is also why I initially ran into trouble with my flash hash. It would clear after a redirect within an if statement (examples above), an issue I hadn't encountered before. I had been using the rack-flash gem, which a lot of Googling has led me to believe works better with Rails apps. I switched to sinatra-flash, which has built-in methods like .keep, to persist the flash's contents for an extra redirect. Problem solved!
 
 I learned a lot doing this project. It was fun trying to approximate methods built into higher-level frameworks, and I'm excited to move on to the Rails and advanced JavaScript sections so I can learn to do them that way, too.
 
