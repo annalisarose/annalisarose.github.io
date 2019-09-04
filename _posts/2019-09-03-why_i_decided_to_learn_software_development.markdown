@@ -7,7 +7,9 @@ permalink:  why_i_decided_to_learn_software_development
 
 
 	
-I'm a millenial whose dad was, profesionally, in the vanguard of the dot com bubble. I grew up with computers and the internet, and vice versa. Somewhere around the time I was making pixel art in MS Paint and Sailor Moon fansites on GeoCities, I discovered OtakuWorld, a "[web site, dedicated to software influenced by and related to Japanese anime and manga](http://https://otakuworld.com/)." OtakuWorld's biggest attraction was The Big KiSS Page, which comprised fan-made and -submitted digital "paper doll" games, and tutorials on how to create them at home. My first forays into programming were writing the configuration files for my own iterations of these dolls.
+I'm a millenial whose dad was, profesionally, in the vanguard of the dot com bubble. I grew up with computers and the internet, and vice versa.
+
+Somewhere around the time I was making pixel art in MS Paint and Sailor Moon fansites on GeoCities, I discovered OtakuWorld, a "[web site, dedicated to software influenced by and related to Japanese anime and manga](http://https://otakuworld.com/)." OtakuWorld's biggest attraction was The Big KiSS Page, which comprised fan-made and -submitted digital "paper doll" games, and tutorials on how to create them at home. My first forays into programming were writing the configuration files for my own iterations of these dolls.
 
 As the web expanded over the years, I continued to dabble in code to customize my MySpace, and later, my Tumblr, but I began to pursue software development in earnest about six years ago, when I took an introductory course to front-end development at General Assembly in NYC. For my final project, I created a static webpage that mimicked the appearance and functionality of a KiSS Doll set. On the last day of class, my instructor pulled me aside to suggest I pursue coding as a career path, and that was all the encouragement I needed to enter a field I could already tell I loved. I chose Flatiron School for fullstack studies because they teach Ruby in addition to JavaScript, and I'd rather learn more than less for the same price as other programs.
 
