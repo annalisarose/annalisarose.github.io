@@ -6,7 +6,9 @@ permalink:  weird_holidays_dynamic_calendar_in_google_sheets
 ---
 
 
-I gave myself a small project to learn something new and help out the PR Manager at my office. She was looking for post ideas for our company's social media, so I researched funny "days of celebration" in the remainder of 2019 that we could use to theme some of our content. I generated a dynamic calendar in Google Sheets, and populated it with weird holidays scraped from two different sites. The sheet tabs for my scraped data kind of function as a SQL join table situation-- hooray for transitive logic!
+I gave myself a small project to learn something new and help out the PR Manager at my office. She was looking for post ideas for our company's social media, so I researched funny "days of celebration" in the remainder of 2019 that we could use to theme some of our content. I generated a dynamic calendar in Google Sheets, and populated it with weird holidays scraped from two different sites.
+
+The sheet tabs for my scraped data kind of function as a SQL join table situation-- hooray for transitive logic!
 
 It was a fun challenge to figure out Google Sheet queries for the first time. Check out my work below, and please feel free to use my functions. I'll be using them again come 2020 when it's time to populate a fresh calendar!
 
