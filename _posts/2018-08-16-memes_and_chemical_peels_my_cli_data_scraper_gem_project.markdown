@@ -6,8 +6,6 @@ permalink:  memes_and_chemical_peels_my_cli_data_scraper_gem_project
 ---
 
 
-![](http://oi63.tinypic.com/2lnn7a.jpg)
-
 <p>Assignment: "Build a Ruby gem that provides a Command Line Interface (CLI) to an external data source. The CLI will be composed of an Object Oriented Ruby application. The data provided must go at least one level deep. A 'level' is where a user can make a choice and then get detailed information about their choice."
 
 <p>I decided to scrape knowyourmeme.com, one of my favorite and most-visited websites. It's basically Wikipedia for memes, an invaluable resource in this age of ever-evolving web humor. My goal for the interface was:
