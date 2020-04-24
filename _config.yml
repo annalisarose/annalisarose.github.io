@@ -1,15 +1,14 @@
 # Site settings
-title: Annalisa's Coding Blog
+author: Annalisa Graziano
+title: Annalisa Codes
 header-img: img/home-bg.png
 email: arosegraz@gmail.com
-copyright_name: annalisarose
+copyright_name: Annalisa Graziano
 description: > # this means to ignore newlines until "baseurl:"
-  Documenting my progress through Flatiron School
+  School and personal projects
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  annalisarose
-learn_profile: annalisarose
-email_username: arosegraz@gmail.com
 
 # Build settings
 markdown: kramdown
